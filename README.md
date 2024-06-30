@@ -1,4 +1,4 @@
-<img src="../photo/RodagaStudy.jpg"  width="100%" height="500"/> 
+<img src="photo/main.jpeg"  width="100%" height="600"/> 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
