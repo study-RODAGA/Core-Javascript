@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| <img src="../photo/sumi.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="../photo/ssb.jpg"  width="150" height="150"/> | 
+| <img src="../photo/sumi.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="/photo/sb.jpeg"  width="150" height="150"/> | 
 | :---: | :---: | :---: |
 |https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|
 
