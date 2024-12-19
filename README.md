@@ -5,7 +5,7 @@
 
 <div align="center">
     
-# 👨‍💻React 공식문서 스터디👨‍💻
+# 👨‍💻Core-Javascript 스터디👨‍💻
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| <img src="../photo/sumi.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="/photo/sb.jpeg"  width="150" height="150"/> | 
+| <img src="../photo/sm.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="/photo/sb.jpeg"  width="150" height="150"/> | 
 | :---: | :---: | :---: |
 |https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|
 
