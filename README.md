@@ -25,13 +25,13 @@
 | 2주차 | 7/8 ~ 7/14 | 3장 this , 4장 콜백 함수 | 임현아 |
 | 3주차 | 7/15 ~ 7/21 | 5장 클로저 | 임현아 |
 | 4주차 | 7/22 ~ 7/28 | 6장 프로토타입 | 박수미 |
-| 5주차 | 7/29 ~ 8/4 | 7장 클래스 |  |
+| 5주차 | 7/29 ~ 8/4 | 7장 클래스 | 서샛별 |
 
 </div>
 
 <div align="center">
 
-| <img src="../photo/sm.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="/photo/sb.jpeg"  width="150" height="150"/> | 
+| <img src="/photo/sm.jpg"  width="150" height="150"/> | <img src="/photo/lyuna.jpg"  width="150" height="150"/> | <img src="/photo/sb.jpeg"  width="150" height="150"/> | 
 | :---: | :---: | :---: |
 |https://github.com/sumii-7|https://github.com/lyuna29|https://github.com/ssbmel|
 
